@@ -31,6 +31,20 @@ Model mampu mengklasifikasikan lima jenis beras:
 
 ## Persiapan Lingkungan
 
+### Clone Repository
+
+Clone repository ini ke direktori lokal:
+
+```bash
+git clone https://github.com/Rezza-rmdh/UAS-Praktikum-MachineLearning.git
+```
+
+Pindah ke direktori proyek:
+
+```bash
+cd UAS-Praktikum-MachineLearning
+```
+
 ### Membuat Virtual Environment
 
 ```bash
