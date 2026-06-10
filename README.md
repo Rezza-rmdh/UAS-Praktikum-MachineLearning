@@ -21,9 +21,7 @@ Model mampu mengklasifikasikan lima jenis beras:
 
 ## Teknologi yang Digunakan
 
-* Python 3.x
-* TensorFlow
-* tf2onnx
+* Python 3.10
 * ONNX Runtime
 * FastAPI
 * Uvicorn
