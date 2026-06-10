@@ -1,0 +1,8 @@
+Pembagian tugas pengerjaan proyek:
+1. Rezza Ramadhana (2308107010025): 
+    - Membuat aplikasi web (front-end) dengan menggunakan library Streamlit
+    - Membuat slide presentasi
+2. Naufal Hanif (2308107010025):
+    - Membuat aplikasi web (back-end) dengan menggunakan library FastAPI
+    - Refactor code aplikasi web (front-end)
+    - Membuat slide presentasi
