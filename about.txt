@@ -5,4 +5,4 @@ Pembagian tugas pengerjaan proyek:
 2. Naufal Hanif (2308107010025):
     - Membuat aplikasi web (back-end) dengan menggunakan library FastAPI
     - Refactor code aplikasi web (front-end)
-    - Membuat slide presentasi
+    - Membuat dokumentasi README.md
